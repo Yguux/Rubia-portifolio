@@ -24,43 +24,29 @@ Body{
 .meutexto{
     font-size: 1em;
 }
-/* .titulo{
-    padding-top: 5%;
-    font-family: 'Montserrat';
-    text-align: center;
-    font-size: 2.5em;
-}
-.carossel{
-    padding-top: 8%;
-    width: 50%;
+.trab{
     display: flex;
-    align-items: center;
-    text-align: center;
     justify-content: center;
 }
-.carossel img{
-    width: 100%;
-}
-.center{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-} */
 .trabalhos{
     padding-top: 3em;
     padding-bottom: 2em;
     font-size: 3em;
     font-family: 'Montserrat';
+    width: 95%;
 }
 .academia{
+    display: flex;
     text-align: center;
     width: 100%;
     border-top: 1px solid rgb(165, 159, 159);
+    justify-content: center;
 }
 .academia h3{
     padding-top: 1em;
     padding-bottom: 2em;
     font-family: 'Montserrat';
+    width: 90%;
 }
 @media (max-width: 1000px){
     
