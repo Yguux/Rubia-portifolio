@@ -1,8 +1,6 @@
-Body{
-    background-color: #C7E6FF;
-}
 .navbar{
     position: fixed;
+    
 }
 .intro{
     display: flex;
